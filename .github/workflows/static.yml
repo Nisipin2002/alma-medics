@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alma Medics - Consultorio Médico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        .services ul, .team ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .services li, .team li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://drive.google.com/uc?export=view&id=1cIG6GPXAcH3mCZflEHlci5OXCWEmjRTL" alt="Logo Alma Medics" width="150">
+    <h1>Alma Medics - Consultorio Médico</h1>
+    <p>Comprometidos con la salud y el bienestar de nuestros pacientes</p>
+</header>
+
+<section>
+    <h2>Información General</h2>
+    <p>Alma Medics es un consultorio médico especializado en gastroenterología y endoscopia avanzada, comprometido con la salud y el bienestar de nuestros pacientes.</p>
+</section>
+
+<section>
+    <h2>Servicios Médicos</h2>
+    <div class="services">
+        <h3>Gastroenterología</h3>
+        <ul>
+            <li>Diagnóstico y tratamiento de enfermedades gastrointestinales crónicas (enfermedad de Crohn, colitis ulcerosa, etc.)</li>
+            <li>Tratamiento de enfermedades hepáticas (cirrosis, hepatitis, etc.)</li>
+            <li>Tratamiento de enfermedades pancreáticas (pancreatitis, cáncer de páncreas, etc.)</li>
+        </ul>
+        <img src="https://drive.google.com/uc?export=view&id=150QLKZFmWgb1KgVj43CzS3iA6GR30lXW" alt="Imagen de Gastroenterología" width="300">
+        
+        <h3>Endoscopia Avanzada</h3>
+        <ul>
+            <li>Endoscopia digestiva alta y baja</li>
+            <li>Colonoscopia</li>
+            <li>Ecografía endoscópica</li>
+            <li>Tratamiento de hemorragias gastrointestinales</li>
+        </ul>
+        <h3>Otros Servicios</h3>
+        <ul>
+            <li>Educación sobre la prevención de enfermedades gastrointestinales</li>
+            <li>Consejos sobre la alimentación saludable y el estilo de vida</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Equipo Médico</h2>
+    <ul class="team">
+        <li>Dr. Hugo Javier Albores Velázquez - Gastroenterólogo y Endoscopista</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Instalaciones y Equipamiento</h2>
+    <ul>
+        <li>Consultorios modernos y bien equipados</li>
+        <li>Sala de endoscopia avanzada con equipamiento de última generación</li>
+        <li>Laboratorio de análisis clínicos</li>
+    </ul>
+    <img src="https://drive.google.com/uc?export=view&id=1Meo3WoJduT0RHHQBT_BE44dvPYVp0oQz" alt="Instalaciones de Alma Medics" width="300">
+</section>
+
+<section>
+    <h2>Horarios y Ubicación</h2>
+    <p>Horarios: 9:00 am - 14:00 pm </p>
+    <p>Ubicación: 4a Avenida Sur Poniente #1036 Entre 9a y 10a Poniente, Tuxtla Gutiérrez</p>
+</section>
+
+<section>
+    <h2>Contacto</h2>
+    <p>Teléfono: 961 613 7348</p>
+    <p>Correo electrónico: HugoAlbores@gmail.com</p>
+    <img src="https://drive.google.com/uc?export=view&id=1IA0t44_PPvAP7CNjZgd-5syhjabek9c8" alt="Imagen de Contacto" width="300">
+</section>
+
+<section>
+    <h2>Redes Sociales</h2>
+    <ul>
+        <li><a href="https://www.facebook.com/watch/?v=1278145198961450" target="_blank">Facebook</a></li>
+        <li><a href="https://www.instagram.com/apaloosaarq/p/CDO4hPTDISv/" target="_blank">Instagram</a></li>
+        <li><a href="[insertar enlace a página de Twitter]" target="_blank">Twitter</a></li>
+    </ul>
+    <img src="https://drive.google.com/uc?export=view&id=1ACiFQ8ww4RKZht1Ao-6SDpy3LBG-Hwe8" alt="Imagen de Redes Sociales" width="300">
+</section>
+
+<footer>
+    <p>&copy; 2025 Alma Medics. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
